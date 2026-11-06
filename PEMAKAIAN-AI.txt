@@ -1,0 +1,10 @@
+Pemakaian AI, UTS PBP Bagian A
+
+Isi salah satu:
+- Tidak memakai AI.
+- Memakai AI: tulis nama alatnya, untuk langkah mana (U1 sampai U6), dan apa yang Anda tanyakan.
+
+
+claude,gpt,gemini
+u1,u3,U4
+penjelasan dan cara menggunakan kodenya 
